@@ -1,5 +1,5 @@
 def get_square(n):
-    return n**2
+    return n**3
 
 def get_addition(a,b,c):
     return a+b+c

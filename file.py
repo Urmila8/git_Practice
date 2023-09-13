@@ -3,3 +3,7 @@ def get_square(n):
 
 def get_addition(a,b):
     return a+b
+
+def get_sub(a,b):
+    return a-b
+
